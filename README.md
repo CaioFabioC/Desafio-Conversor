@@ -30,6 +30,8 @@ O conversor permite que o usuário selecione uma moeda de origem e uma de destin
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 
-
+<div align="center">
+  <a href="https://caiofabioc.github.io/conversor-de-moedas/">🌐 Acesse o site do projeto</a>
+</div>
 
 ---
