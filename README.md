@@ -31,6 +31,5 @@ O conversor permite que o usuário selecione uma moeda de origem e uma de destin
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 
 
-👉 Acesse o site: [Conversor de Moedas](https://caiofabioc.github.io/Desafio-Conversor/)
 
 ---
