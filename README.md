@@ -34,4 +34,5 @@ O conversor permite que o usuário selecione uma moeda de origem e uma de destin
   <a href="https://caiofabioc.github.io/conversor-de-moedas/">🌐 Acesse o site do projeto</a>
 </div>
 
+Project by Caio Fábio in 07/2025
 ---
